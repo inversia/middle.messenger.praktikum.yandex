@@ -6,4 +6,4 @@
 #### Билдить через `npm run build`
 
 #### Ссылка на pull request: https://github.com/inversia/middle.messenger.praktikum.yandex/pull/1
-#### Ссылка на netlify: https://clever-kalam-8380f4.netlify.app
+#### Ссылка на netlify: https://elated-brahmagupta-cdd520.netlify.app
